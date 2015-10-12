@@ -24,7 +24,7 @@ You can fill in space inside the puppet head by adding a “head extender”. Tw
 Two frames are provided which would allow the puppet to pan and tilt. 
 
 ### stand
-The stand provided has two components. This is to elevate your puppet to a reasonable height.  
+The stand provided has two components. This is to elevate your puppet to a reasonable height. We also provide two versions of the "stand-bottom" component, one is the full body and the other is split into two so you can print it easily if the full body does not fit. 
 
 ## Printing 
 
